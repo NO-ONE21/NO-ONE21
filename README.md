@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NO-ONE21
 - 👀 I’m interested in web desigening
-- 🌱 I’m currently learning HTML,CSS,javascript
+- 🌱 I’m currently learning HTML,CSS,javascript,react,mysql
 - 💞️ I’m looking to collaborate on  github
 - 📫 How to reach me ...
 
